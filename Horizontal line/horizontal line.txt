@@ -1,0 +1,13 @@
+<DOCTYPE html>
+<html>
+
+<head>
+<title>Horizontal line example</title>
+</head>
+<p> This is a paragraph one and should be on top</p>
+<hr/>
+
+<p> This paragraph two and should be at bottom</p>
+</body>
+
+</html>
