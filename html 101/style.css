@@ -1,0 +1,49 @@
+body{
+	
+background-color: #D8BFD8;
+}
+h1{
+color: rgb(250,250,250,0.8)	
+}
+
+h2{
+	background-color:green;
+	color:yellow;
+	align-float:center;
+	font-size:48px;
+}
+
+p{
+color:rgb(90,90,90,0.7);
+border-bottom-style:dotted;
+border-bottom-width:2px 20px;
+float:left;
+}
+a{
+	position:relative
+}
+ol{
+	list-style-type:none;
+	text-decoration:none;
+}
+a{
+	text-decoration:underline;
+}
+a:link{
+	color:black;
+}
+a:visited{
+color:blue
+}
+a:hover{
+color:green}
+a:active{
+color:red}
+	
+	
+	
+
+
+	
+	
+                                                                                                                                                                                                                                                                                                                
